@@ -18,5 +18,4 @@ If you use our code or models in your research, please cite with:
   year={2017},
   publisher={IEEE}
 }
-...
 ``` 
