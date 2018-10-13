@@ -8,6 +8,7 @@ Please download VLFeat toolbox (http://www.vlfeat.org/) and add the folder and i
 
 ## Citation
 If you use our code or models in your research, please cite with:
+```
 @article{ma2017robust,
   title={Robust Image Feature Matching via Progressive Sparse Spatial Consensus},
   author={Ma, Yong and Wang, Jiahao and Xu, Huihui and Zhang, Shuaibin and Mei, Xiaoguang and Ma, Jiayi},
@@ -17,3 +18,5 @@ If you use our code or models in your research, please cite with:
   year={2017},
   publisher={IEEE}
 }
+...
+``` 
