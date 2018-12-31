@@ -5,6 +5,7 @@ This is a MATLAB implementation of Progressive Sparse Spatial Consensus (PSSC) f
 
 ## Requirement
 Please download VLFeat toolbox (http://www.vlfeat.org/) and add the folder and its subfolders to the current path.
+Then run "demo.m".
 
 ## Citation
 If you use our code or models in your research, please cite with:
